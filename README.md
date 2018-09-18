@@ -41,6 +41,17 @@
 #### Data Extraction
 Photon can extract the following data while crawling:
 
+------------------------------------------------------------------------------------------------------------
+
+2 место. Photon
+
+Невероятно быстрая поисковая программа, которая может собирать URL-адреса, файлы, учетные записи веб-сайтов, адреса электронной почты и многое другое.
+
+Somdev Sangwan, ⭐️ 3186 звезд на Github.
+
+-----------------------------------------------------------------------------------------------------------
+
+
 - URLs (in-scope & out-of-scope)
 - URLs with parameters (`example.com/gallery.php?id=2`)
 - Intel (emails, social media accounts, amazon buckets etc.)
